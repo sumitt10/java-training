@@ -22,6 +22,6 @@ public class Hashcode {
 
 		System.out.println("HashCode for person1: " + person1.hashCode());
 		System.out.println("HashCode for person2: " + person2.hashCode());
-
+                System.out.println("person1 equals person2: " + person1.equals(person2));
 	}
 }
