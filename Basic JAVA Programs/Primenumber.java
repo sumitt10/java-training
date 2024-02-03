@@ -15,6 +15,6 @@ public class Primenumber{
     }      
    }      
    if(flag==0)  { System.out.println(n+" is prime number"); }  
-  }//end of else  
+  }
 }    
 }  
