@@ -18,6 +18,7 @@ public class Examples6 {
 		System.out.println("Set: " + numbers);
 
 		Map<String, Integer> ages = new HashMap<>();
+		
 		ages.put("John", 25);
 		ages.put("Alice", 30);
 		ages.put("Bob", 22);
